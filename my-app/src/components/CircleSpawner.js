@@ -4,7 +4,10 @@ import './circle.css'
 function CircleSpawner(prop) {
     return (
         <div>
-            <div className='circle topleft'></div>
+            <div 
+            className='circle'
+            Position='fixed'
+            ></div>
         </div>
     )
 }
