@@ -1,0 +1,13 @@
+.circle {
+    width: 150px;
+    height: 150px;
+    -webkit-border-radius: 75px;
+    -moz-border-radius: 75px;
+    border-radius: 75px;
+    background: rgb(196, 190, 190);
+  }
+  .topleft {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
